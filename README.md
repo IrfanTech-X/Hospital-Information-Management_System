@@ -83,7 +83,7 @@ This system simulates the core activities of a hospital through a menu-driven in
 **Role:** CSE Undergraduate Student, Green University of Bangladesh    
 **Email:** siamtalukdar3@gmail.com  
 **LinkedIn:** [linkedin.com/in/irfan-ferdous-siam](https://linkedin.com/in/irfan-ferdous-siam)   
-**GitHub:** [github.com/yourusername](https://github.com/IrfanTech-X) 
+**GitHub:** [github.com/IrfanTech-X](https://github.com/IrfanTech-X) 
 
 > Passionate about programming, cybersecurity, and software engineering.  
 
